@@ -43,7 +43,7 @@ class ReachTop50 extends AchievementType
     }
 }
 
-$test = new AchievementType();
+// $test = new AchievementType();
 // echo $test->name();
 // echo $test->icon();
 
